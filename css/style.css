@@ -43,6 +43,10 @@ a:hover {
     color: #009a61;
 }
 
+.navbar-default {
+    background-color: #fff;
+}
+
 .navbar-nav>li>a {
     line-height: 60px;
     font-size: 16px;
@@ -108,7 +112,6 @@ a:hover {
 }
 
 .introBanner {
-    border: 1px solid #EAEAEA;
     padding: 10px;
     margin-bottom: 15px;
 }
@@ -124,7 +127,7 @@ a:hover {
 
 .excerpt:hover {
     background-color: #FBFDFF;
-    border-color: #EAEAEA;
+    border-color: #fff;
     position: relative;
 }
 
@@ -231,9 +234,7 @@ a:hover {
     clear: both;
     position: relative;
     margin-bottom: 15px;
-    background-color: #fff;
     border-radius: 4px;
-    border: 1px solid #eaeaea;
     overflow: hidden;
 }
 
@@ -250,10 +251,9 @@ a:hover {
     font-size: 16px;
     line-height: 16px;
     color: #666;
-    border-bottom: 1px solid #eaeaea;
+    border-bottom: 1px solid #fff;
     border-left: 3px solid #009a61;
-    background-color: #fbfbfb;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
     padding-left: 5px;
     cursor: default;
 }
@@ -266,7 +266,6 @@ a:hover {
 .widget li a {
     padding: 6px 1px;
     color: #888;
-    border-bottom: solid 1px #eee;
     overflow: hidden;
     position: relative;
     display: block;
@@ -340,7 +339,6 @@ a:hover {
 
 .article-header {
     padding: 20px 0;
-    border-bottom: 1px solid #EEE;
     text-align: left;
 }
 
@@ -399,6 +397,12 @@ a:hover {
     font-size: 16px;
 }
 
+.article-comment input,
+.article-comment textarea {
+    margin-bottom: 6px;
+    border: 1px solid #eee;
+}
+
 .postcomments {
     padding-bottom: 20px;
 }
@@ -415,7 +419,7 @@ a:hover {
 }
 
 .comment-content:hover {
-    background-color: #ddd;
+    background-color: #FBFDFF;
 }
 
 .comment-f {
