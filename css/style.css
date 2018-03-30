@@ -299,16 +299,15 @@ a:hover {
 .widget_sentence li {
     display: inline-block;
     float: left;
-    /* border: 1px solid #ddd; */
     padding: 0px 0px;
     margin: 5px;
     font-size: 12px;
 }
 
 .widget_sentence li a {
-    background-color: #999;
+    background-color: #ccc;
     padding: 2px 5px;
-    border: 1px solid #999;
+    border: 1px solid #ccc;
     border-radius: 0.4em;
     color: #fff;
 }
@@ -324,6 +323,7 @@ a:hover {
 .widget_sentence .badge {
     padding: 2px 4px;
     margin: 0 2px;
+    background-color: #999;
 }
 
 
