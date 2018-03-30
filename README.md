@@ -8,3 +8,4 @@
 
 ![首页](http://p5ar9j17o.bkt.clouddn.com/reedo/sys/screenshot/index.png)
 ![详情页](http://p5ar9j17o.bkt.clouddn.com/reedo/sys/screenshot/detail.png)
+![首页手机端](http://p5ar9j17o.bkt.clouddn.com/reedo/sys/screenshot/index-h.png)
