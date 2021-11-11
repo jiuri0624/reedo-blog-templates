@@ -6,6 +6,6 @@
 - 支持自适应。
 
 
-![首页](http://p5ar9j17o.bkt.clouddn.com/reedo/sys/screenshot/index2.png)
-![详情页](http://p5ar9j17o.bkt.clouddn.com/reedo/sys/screenshot/detail2.png)
-![首页手机端](http://p5ar9j17o.bkt.clouddn.com/reedo/sys/screenshot/index-h.png)
+![1](https://user-images.githubusercontent.com/20450504/141222133-ae9c5f39-0d29-4261-a224-52c811c0a393.jpg)
+![3](https://user-images.githubusercontent.com/20450504/141222174-1a99be7a-e103-474c-80a9-31e5231a58a7.jpg)
+![2](https://user-images.githubusercontent.com/20450504/141222181-e3438a60-15e0-43d7-bf1f-b33e2ab3c521.jpg)
